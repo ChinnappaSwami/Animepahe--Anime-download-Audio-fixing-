@@ -204,7 +204,7 @@ BASE_ANIME_PATH = r"C:\Users\YourName\Videos\Anime"
 ### 📥 Animepahe Downloader
 
 <p align="center">
-  <img src="required_images/animepahe-dl.png" width="700"/>
+  <img src="required_images/Animepahe-dl.png" width="700"/>
 </p>
 
 ---
