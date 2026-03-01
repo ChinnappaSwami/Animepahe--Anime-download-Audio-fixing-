@@ -189,12 +189,31 @@ BASE_ANIME_PATH = r"C:\Users\YourName\Videos\Anime"
 
 ---
 
+---
+
 ## 📸 Screenshots
 
-> | ![interface](required_images/interface1.png) |
-> | ![Animepahe -DL](required_images/animepahe-dl.png) |
-> | ![Fixing Audio](required_images/fixing-aud.png) |
+### 🎛️ Main Interface
 
+<p align="center">
+  <img src="required_images/interface1.png" width="700"/>
+</p>
+
+---
+
+### 📥 Animepahe Downloader
+
+<p align="center">
+  <img src="required_images/animepahe-dl.png" width="700"/>
+</p>
+
+---
+
+### 🔊 Audio Fixing
+
+<p align="center">
+  <img src="required_images/fixing-aud.png" width="700"/>
+</p>
 ---
 
 ## 📝 Requirements
