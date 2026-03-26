@@ -101,7 +101,7 @@ Anime-Launcher/
 
 ```bash
 git clone https://github.com/ChinnappaSwami/Animepahe--Anime-download-Audio-fixing-.git
-cd Anime-Launcher
+cd Animepahe--Anime-download-Audio-fixing-
 ```
 
 **2.** *(Optional)* Create and activate a virtual environment
