@@ -100,7 +100,7 @@ Anime-Launcher/
 **1.** Clone the repository
 
 ```bash
-git clone https://github.com/ChinnappaSwami/Anime-Launcher.git
+git clone https://github.com/ChinnappaSwami/Animepahe--Anime-download-Audio-fixing-.git
 cd Anime-Launcher
 ```
 
